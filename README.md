@@ -1,6 +1,6 @@
 # CREATE-AKUN-GITHUB-FORK-REPOSITORI
 ---
-![AGUSISKANDAR](https://github.com/arry-hutomo/CREATE-AKUN-GITHUB-FORK-REPOSITORI/blob/main/AGUS%20ISKANDAR.png)
+
 
 ---
 Wih, para eco techno leaders! Bikin akun GitHub itu gampang banget, guys. Tinggal daftar, isi data diri, cuss jadi. Terus, buat fork repo, klik tombol "Fork" aja. Langsung deh bisa ngoprek project orang buat nambahin portofolio kece kalian. Semangat coding buat bumi!
